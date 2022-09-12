@@ -4,3 +4,4 @@
 - CSS3
 - Flexbox
 - JavaScript
+- Responsive
