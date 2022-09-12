@@ -2,6 +2,7 @@
 
 - HTML5
 - CSS3
-- Flexbox
+- Flexbox CSS
+- Grid CSS
 - JavaScript
 - Responsive
